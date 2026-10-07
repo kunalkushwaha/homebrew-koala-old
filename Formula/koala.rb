@@ -3,7 +3,7 @@ class Koala < Formula
   homepage "https://github.com/kunalkushwaha/koala-releases"
   url "https://github.com/kunalkushwaha/koala-releases/releases/download/v0.1.0-preview.1/koala-0.1.0-preview.1-darwin-arm64.tar.gz"
   version "0.1.0-preview.1"
-  sha256 "92e2d8cc0e665229bcd954b5671247c7456f1dbf6128178247aaa54993cb52be"
+  sha256 "31dc0a6f14f8e1f5aa3b497f5957061704103c2f12002a3a46cdb2d800b16365"
   license "Apache-2.0"
 
   depends_on arch: :arm64
